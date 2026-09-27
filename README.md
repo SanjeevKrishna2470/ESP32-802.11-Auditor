@@ -1,4 +1,4 @@
-# Wireless Security Lab — Complete Setup Methodology
+# Wireless Security Lab 
 
 ## 1. Lab Purpose
 
